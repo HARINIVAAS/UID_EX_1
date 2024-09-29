@@ -69,6 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+DESCRIPTION:
 
 Bike Webpage: Speedster Bike Shop
 The Speedster Bike Shop webpage is a modern and responsive React-based website designed to showcase various bike models, shop details, and services offered by a fictional bike store. The site features a clean, professional layout with a user-friendly navigation bar, detailed information section, and visually appealing design elements.
