@@ -1,0 +1,17 @@
+/* General App styles */
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+}
+
+/* Content styling */
+.content {
+  padding: 20px;
+}
+
+/* Heading styles */
+h2 {
+  color: #004aad; /* You can change this color based on your theme */
+  margin-bottom: 20px;
+}
